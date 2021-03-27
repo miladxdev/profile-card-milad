@@ -5,7 +5,7 @@
 
 body {
     background: #dce0ee;
-    height: 200vh;
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -14,8 +14,7 @@ body {
 }
 .card {
     position: relative;
-    width: 340px;
-    height: auto;
+    width: 330px;
     background: #212121;
     box-shadow:
         0 7px 30px -10px #121212;
@@ -107,7 +106,7 @@ body {
 .social * {
    width:50px;
    height: 50px;
-   margin: 0 5px 0 5px;
+   margin: 0 7px 5px 7px;
    border-radius: 50%;
    box-shadow: 0 0 15px 1px #333333;
    transition: .4s;
